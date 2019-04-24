@@ -31,7 +31,7 @@ namespace CoinCombinations.Models
      int tempAmount = _amount;
      for (int i =0; i < _coinArray.Length; i++)
      {
-       if (tempAmount > _coinArray[i])
+       if (tempAmount >= _coinArray[i])
        {
          output[_coinNominals[i]] = tempAmount/_coinArray[i];
          tempAmount = tempAmount % _coinArray[i];
