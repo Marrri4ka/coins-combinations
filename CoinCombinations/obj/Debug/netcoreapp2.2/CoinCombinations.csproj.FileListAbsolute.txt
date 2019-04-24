@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/bin/Debug/netcoreapp2.2/CoinCombinations.deps.json
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/bin/Debug/netcoreapp2.2/CoinCombinations.dll
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/bin/Debug/netcoreapp2.2/CoinCombinations.pdb
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/obj/Debug/netcoreapp2.2/CoinCombinations.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/obj/Debug/netcoreapp2.2/CoinCombinations.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/obj/Debug/netcoreapp2.2/CoinCombinations.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/obj/Debug/netcoreapp2.2/CoinCombinations.AssemblyInfo.cs
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/obj/Debug/netcoreapp2.2/CoinCombinations.dll
+/Users/Guest/Desktop/Coin-Combinations/CoinCombinations/obj/Debug/netcoreapp2.2/CoinCombinations.pdb
